@@ -1,0 +1,1 @@
+Copyright © 2024 Guedosha. All Rights Reserved

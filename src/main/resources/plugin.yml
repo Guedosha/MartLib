@@ -1,0 +1,21 @@
+name: MartLib
+version: '${project.version}'
+main: com.guedosha.martlib.MartLib
+api-version: '1.20'
+prefix: MartLib
+authors: [Guedosha]
+description: A plugin consisting of several minor tweaks and bug fixes for my SMP
+website: https://www.guedosha.com
+commands:
+  sign:
+    description: Add your signature to a book
+    usage: /sign
+    permission: MartLib.sign
+  martlib:
+    description: Main command for MartLib
+    usage: /martlib
+    permission: MartLib.admin
+  reload:
+    description: Reloads the config
+  banner:
+    description: Gets the banner for the team you're on

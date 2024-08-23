@@ -1,0 +1,16 @@
+Modules:
+  BookSignature: true
+  BushmanBow: true
+  CultistBanner: true
+  DeathCoordinates: true
+  EasyRaidEvokers: true
+  GlobalFreeze: false
+  InvincibilityFrames:
+    Enabled: true
+    InvincibilityTicks: 60
+  PlayerLogger: true
+  SeasonalItems: true
+  SimpleSpleef: true
+  StopSoundsOnDeath: true
+  WardenBoss: true
+  WardenHeartFix: true
