@@ -25,6 +25,12 @@ A bunch of random functionality and tweaks I've added to my Minecraft server.
 [Luckperms](https://luckperms.net/download)<br>
 <sub>Certain dependencies aren't required depending on which modules are enabled.</sub>
 
+## Permissions
+* /martlib:reload command: <code>martlib.reload</code>
+* /martlib command: <code>martlib.admin</code>
+* /sign command: <code>martlib.sign</code>
+* Allow players to move when GlobalFreeze is enabled: <code>martlib.globalfreeze.move</code>
+
 <h2>Copyright © 2024 Guedosha. All Rights Reserved</h2>
 <sub>Since I'm indecisive, this repository is all rights reserved until I make up my mind on an appropriate license.<br>
 If you want to use any of this code, just message me on discord.</sub>
