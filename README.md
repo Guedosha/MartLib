@@ -1,5 +1,5 @@
 # MartLib
-A bunch of random functionality and tweaks i've added to my Minecraft server.
+A bunch of random functionality and tweaks I've added to my Minecraft server.
 
 # Modules
 <h3>All modules are toggleable in the config. Do <code>/martlib:reload</code> to reload the <a href="https://github.com/Guedosha/MartLib/blob/main/src/main/resources/config.yml">config</a> after making changes</h3>
