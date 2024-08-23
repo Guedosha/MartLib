@@ -11,6 +11,8 @@ public class InvincibilityFrames implements Listener {
 
     Plugin plugin = MartLib.getPlugin(MartLib.class);
 
+    //Currently non functional, I will fix in a later update
+
     @EventHandler
     public void playerJoin(PlayerJoinEvent e) {
         StatusHandler statHand = new StatusHandler();
