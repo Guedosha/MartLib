@@ -21,7 +21,9 @@ A bunch of random functionality and tweaks I've added to my Minecraft server.
 ## Dependencies
 [Geyser](https://geysermc.org/download/)<br>
 [Floodgate](https://geysermc.org/download/?project=floodgate)<br>
-[MythicMobs](https://www.spigotmc.org/resources/%E2%9A%94-mythicmobs-free-version-%E2%96%BAthe-1-custom-mob-creator%E2%97%84.5702/)
+[MythicMobs](https://www.spigotmc.org/resources/%E2%9A%94-mythicmobs-free-version-%E2%96%BAthe-1-custom-mob-creator%E2%97%84.5702/)<br>
+[Luckperms](https://luckperms.net/download)<br>
+<sub>Certain dependencies aren't required depending on which modules are enabled.</sub>
 
 <h2>Copyright © 2024 Guedosha. All Rights Reserved</h2>
 <sub>Since I'm indecisive, this repository is all rights reserved until I make up my mind on an appropriate license.<br>
