@@ -5,7 +5,7 @@ A bunch of random functionality and tweaks i've added to my Minecraft server.
 If you want to use any of this code, just message me on discord.</sub>
 
 # Modules
-
+<h3>All modules are toggleable in the config. Do <code>/martlib:reload</code> to reload the <a href="https://github.com/Guedosha/MartLib/blob/main/src/main/resources/config.yml">config</a> after making changes</h3>
 <h5>Book Signature:<br>Adds a /sign command to allow multiple players to sign the same book</h5>
 <h5>Bushmans Bow:<br>Functionality for a custom item on my server</h5>
 <h5>Cultist Banner:<br>Adds a command to give the player a banner coresponding to their team. Currently hardcoded but will be configurable in the future</h5>
