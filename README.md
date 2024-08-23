@@ -18,6 +18,11 @@ A bunch of random functionality and tweaks i've added to my Minecraft server.
 <h5>Warden Boss:<br>A W.I.P. module to add a custom warden boss. Currently cincomplete and is disabled by default in the config.</h5>
 <h5>Warden Heart Fix:<br>A patch for a custom item on my server that allowed players to dupe experience</h5>
 
+## Dependencies
+[Geyser](https://geysermc.org/download/)<br>
+[Floodgate](https://geysermc.org/download/?project=floodgate)<br>
+[MythicMobs](https://www.spigotmc.org/resources/%E2%9A%94-mythicmobs-free-version-%E2%96%BAthe-1-custom-mob-creator%E2%97%84.5702/)
+
 <h2>Copyright © 2024 Guedosha. All Rights Reserved</h2>
 <sub>Since I'm indecisive, this repository is all rights reserved until I make up my mind on an appropriate license.<br>
 If you want to use any of this code, just message me on discord.</sub>
