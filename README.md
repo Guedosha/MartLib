@@ -1,8 +1,5 @@
 # MartLib
 A bunch of random functionality and tweaks i've added to my Minecraft server.
-<h2>Copyright © 2024 Guedosha. All Rights Reserved</h2>
-<sub>Since I'm indecisive, this repository is all rights reserved until I make up my mind on an appropriate license.<br>
-If you want to use any of this code, just message me on discord.</sub>
 
 # Modules
 <h3>All modules are toggleable in the config. Do <code>/martlib:reload</code> to reload the <a href="https://github.com/Guedosha/MartLib/blob/main/src/main/resources/config.yml">config</a> after making changes</h3>
@@ -20,3 +17,7 @@ If you want to use any of this code, just message me on discord.</sub>
 <h5>Stop Sounds On Death:<br>A minor tweak I made because I was annoyed it isn't vanilla behavior. The explanation is in the name</h5>
 <h5>Warden Boss:<br>A W.I.P. module to add a custom warden boss. Currently cincomplete and is disabled by default in the config.</h5>
 <h5>Warden Heart Fix:<br>A patch for a custom item on my server that allowed players to dupe experience</h5>
+
+<h2>Copyright © 2024 Guedosha. All Rights Reserved</h2>
+<sub>Since I'm indecisive, this repository is all rights reserved until I make up my mind on an appropriate license.<br>
+If you want to use any of this code, just message me on discord.</sub>
