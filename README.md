@@ -16,7 +16,7 @@ A bunch of random functionality and tweaks for my Minecraft server combined into
 <h5>Seasonal Items:<br>A module that prevents players from using items with &5Verified in their lore. It was made to allow players to keep a box of sentimental items from the previous season while preventing them from gaining an advantage</h5>
 <h5>Simple Spleef:<br>A simple spleef mechanic that puts snow ball items directlyin the player's inventory when the break snow blocks and makes snow balls instantly break snow blocks</h5>
 <h5>Stop Sounds On Death:<br>A minor tweak I made because I was annoyed it isn't vanilla behavior. The explanation is in the name</h5>
-<h5>Warden Boss:<br>A W.I.P. module to add a custom warden boss. Currently cincomplete and is disabled by default in the config.</h5>
+<h5>Warden Boss:<br>A W.I.P. module to add a custom warden boss. Currently incomplete and is disabled by default in the config.</h5>
 <h5>Warden Heart Fix:<br>A patch for a custom item on my server that allowed players to dupe experience</h5>
 
 ## Dependencies
