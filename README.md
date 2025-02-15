@@ -32,4 +32,4 @@ A bunch of random functionality and tweaks for my Minecraft server combined into
 * /sign command: <code>martlib.sign</code>
 * Allow players to move when GlobalFreeze is enabled: <code>martlib.globalfreeze.move</code>
 
-<h2>Copyright © 2024 Guedosha. See <a href="https://github.com/Guedosha/MartLib/blob/main/LICENSE">license</a>.</h2>
+<h2>Copyright © 2025 Guedosha. See <a href="https://github.com/Guedosha/MartLib/blob/main/LICENSE">license</a>.</h2>
